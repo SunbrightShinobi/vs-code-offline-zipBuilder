@@ -1,0 +1,65 @@
+{
+    "vscode": [
+        {
+            "platform": "win32-x64",
+            "version": "latest",
+            "build": "stable"
+        },
+        {
+            "platform": "linux-rpm-x64",
+            "version": "latest",
+            "build": "stable"
+        }
+    ],
+    "extensions": {
+        "vs-code-extensions-vsix": {
+            "template-finder":"Artymaury.template-finder",
+            "gitignore":"codezombiech.gitignore",
+            "vscode-markdownlint":"DavidAnson.vscode-markdownlint",
+            "confluence-markup":"denco.confluence-markup",
+            "githistory":"donjayamanne.githistory",
+            "xml":"DotJoshJohnson.xml",
+            "gitlens":"eamodio.gitlens",
+            "vscode-html-css":"ecmel.vscode-html-css",
+            "docker-explorer":"formulahendry.docker-explorer",
+            "graphviz-markdown-preview":"geeklearningio.graphviz-markdown-preview",
+            "vscode-pull-request-github":"GitHub.vscode-pull-request-github",
+            "gc-excelviewer":"GrapeCity.gc-excelviewer",
+            "latex-workshop":"James-Yu.latex-workshop",
+            "cisco":"jamiewoodio.cisco",
+            "plantuml":"jebbs.plantuml",
+            "vscode-peacock":"johnpapa.vscode-peacock",
+            "chat":"karigari.chat",
+            "restructuredtext":"lextudio.restructuredtext",
+            "sftp":"liximomo.sftp",
+            "terraform":"mauve.terraform",
+            "vscode-docker":"ms-azuretools.vscode-docker",
+            "vscode-kubernetes-tools":"ms-kubernetes-tools.vscode-kubernetes-tools",
+            "mssql":"ms-mssql.mssql",
+            "anaconda-extension-pack":"ms-python.anaconda-extension-pack",
+            "python":"ms-python.python",
+            "remote-containers":"ms-vscode-remote.remote-containers",
+            "remote-ssh":"ms-vscode-remote.remote-ssh",
+            "remote-ssh-edit":"ms-vscode-remote.remote-ssh-edit",
+            "remote-ssh-explorer":"ms-vscode-remote.remote-ssh-explorer",
+            "remote-wsl":"ms-vscode-remote.remote-wsl",
+            "vscode-remote-extensionpack":"ms-vscode-remote.vscode-remote-extensionpack",
+            "powershell":"ms-vscode.powershell",
+            "vsliveshare":"ms-vsliveshare.vsliveshare",
+            "sliveshare-audio":"ms-vsliveshare.vsliveshare-audio",
+            "vsliveshare-pack":"ms-vsliveshare.vsliveshare-pack",
+            "team":"ms-vsts.team",
+            "ruby":"rebornix.ruby",
+            "vscode-yaml":"redhat.vscode-yaml",
+            "jinjahtml":"samuelcolvin.jinjahtml",
+            "bash-beautify":"shakram02.bash-beautify",
+            "code-settings-sync":"Shan.code-settings-sync",
+            "dot":"Stephanvs.dot",
+            "shell-launcher":"Tyriar.shell-launcher",
+            "vscode-icons":"vscode-icons-team.vscode-icons",
+            "vscode-ansible":"vscoss.vscode-ansible",
+            "jinja":"wholroyd.jinja",
+            "markdown-all-in-one":"yzhang.markdown-all-in-one"
+        }
+    }
+}

@@ -59,7 +59,8 @@
             "vscode-icons":"vscode-icons-team.vscode-icons",
             "vscode-ansible":"vscoss.vscode-ansible",
             "jinja":"wholroyd.jinja",
-            "markdown-all-in-one":"yzhang.markdown-all-in-one"
+            "markdown-all-in-one":"yzhang.markdown-all-in-one",
+            "rocket-code":"andrefischer.rocket-code"
         }
     }
 }
